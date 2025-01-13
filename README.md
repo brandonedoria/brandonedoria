@@ -1,11 +1,29 @@
 <h1 align="center">Hi 👋, I'm Brandon Tyler Edoria</h1>
 <h3 align="center">A passionate Salesforce Professional from the San Francisco Bay Area.</h3>
 
-- 🌱 I’m currently learning **Salesforce Development skills through Cloud Code Academy**
+<div align="center">
 
-- 📫 How to reach me **brandonedoria@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/walters954) 
+[![Salesforce](https://img.shields.io/badge/Salesforce-%231DA1F2.svg?logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/brandonedoria)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brandon-tyler-edoria/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brandon-tyler-edoria/" height="30" width="40" /></a>
-</p>
+</div>
+
+🌱 I’m currently learning **Salesforce Development skills through Cloud Code Academy**
+
+📫 How to reach me **brandonedoria@gmail.com**
+
+# ⚙ Salesforce Technologies
+<table width="100%" style="border:0px;">
+  <tr style="border:0px;" >
+    <td align="center" style="border:0px;">
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_database/fab27840d343cc13934e9cf1f4a41dbc_badge.png" alt="Apex" style="width: 100px;"/>
+        <br>
+        <b>Apex</b>
+    </td>
+    <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/apex_integration_services/06d0e8f1f5b59f14d070f0f6e86dc5bd_badge.png" alt="Integrations" style="width: 100px;"/><br><b>Integrations</b></td>
+    <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lightning-web-components-basics/5cec7279d13ac36ab5ddbffae3035337_badge.png" alt="LWC" style="width: 100px;"/><br><b>LWC</b></td>
+    <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/projects/quickstart-vscode-salesforce/a884f9ae6802649bf19065787ec0bb29_badge.png" alt="SFDX" style="width: 100px;"/><br><b>SFDX</b></td>
+    <td align="center" style="border:0px;"><img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/soql-for-admins/04607670444dbbe5aac7e77bc03c4fd1_badge.png" alt="SOQL" style="width: 100px;"/><br><b>SOQL</b></td>
+    <td align="center" style="border:0px;"><img src="https://developer.salesforce.com/resource/images/trailhead/badges/modules/trailhead_module_performance-troubleshooting-in-lwc.png" alt="Testing" style="width: 100px;"/><br><b>Testing</b></td>
+  </tr>
+</table>
