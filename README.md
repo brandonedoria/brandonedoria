@@ -4,7 +4,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-tyler-e/) 
-[![Salesforce](https://img.shields.io/badge/Salesforce-%231DA1F2.svg?logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/brandonedoria)
+[![Salesforce](https://img.shields.io/badge/Salesforce-%231DA1F2.svg?logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/brandon-t-edoria)
 
 </div>
 
