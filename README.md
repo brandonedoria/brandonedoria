@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Salesforce Development skills through Cloud Code Academy**
 
-📫 How to reach me **brandonedoria@gmail.com**
+📫 How to reach me **brandon.t.edoria@gmail.com**
 
 # ⚙ Salesforce Technologies
 <table width="100%" style="border:0px;">
